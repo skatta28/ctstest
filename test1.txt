@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test file 1104AM Master Copy
+=======
+Test file 1104AM clean_up copy
+>>>>>>> clean_up
